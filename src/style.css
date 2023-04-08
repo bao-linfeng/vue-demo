@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  font-size: 62.5%;
+  color: #333;
+}
+body {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  font-size: 1.4rem;
+}
+#app {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
